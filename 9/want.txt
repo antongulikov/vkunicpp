@@ -1,0 +1,6 @@
+1. int size();
+2. bool is_empty();
+3. void push(int);
+4. int front();
+5. int back();
+6. void pop();
